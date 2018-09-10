@@ -11,7 +11,6 @@ namespace apphw
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
-            Console.WriteLine("Press any key do exit...");
             Console.ReadKey();
         }
     }
